@@ -1,4 +1,6 @@
 
+这个案例的作用是： 自动记录所有Controller类的输入、输入、异常
+
 书写一个自己的spring-boot-starter，步骤是：
 
 1、 
